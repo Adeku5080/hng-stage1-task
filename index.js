@@ -11,7 +11,7 @@ app.get('/',(req,res)=>{
     res.status(200).json({
         status : "succesful",
         data:{
-            slackUsername : "Adeku Ali",
+            slackUsername : "onimisi",
             backend : true,
             age :25,
             bio : "I am Ali ,a graduate of Electrical Engineering and a full-stack Software Engineer"
